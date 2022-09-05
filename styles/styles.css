@@ -6,6 +6,7 @@ body {
 
 .container {
   width: 900px;
+  height: 100vh;
   margin: 0 auto;
 }
 
@@ -62,5 +63,14 @@ button[name="sign_up"] {
   padding: 5px 20px 5px 20px;
   border-radius: 5px;
   border-color: #3882F6;
-  border-style: none;
+  border-style: no ne;
+}
+
+h2 {
+  margin: 0 auto;
+  text-align: center;
+  padding: 15px;
+  font-size: 36px;
+  font-weight: extra-bold;
+  color: #1F2937;
 }
